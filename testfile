@@ -28,4 +28,13 @@ spec:
       containers:
         - name: hello
           image: httpd
+    spec:
+      containers:
+        - name: hello
+          image: apache2
+    spec:
+      containers:
+        - name: hello
+          image: nginx
+
 
