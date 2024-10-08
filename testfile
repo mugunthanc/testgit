@@ -35,6 +35,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: nginx
+          image: jenkins
 
 
